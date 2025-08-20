@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome Announcement",
+      "datetime": "August 01, 2025 09:00 AM",
+      "body": "Welcome to our platform! We're excited to have you here."
+    },
+    {
+      "id": "2",
+      "title": "Feature Update",
+      "datetime": "May 03, 2025 02:30 PM",
+      "body": "We've added new features to improve your experience. Check them out now!"
+    },
+    {
+      "id": "3",
+      "title": "Maintenance Notice 13",
+      "datetime": "August 12,2025 12:56:51 PM",
+      "body": "Scheduled maintenance will occur on August 7th from 2 AM to 4 AM UTC.13"
+    },
+    {
+      "id": "31",
+      "title": "addsss",
+      "datetime": "August 18,2025 4:33:35 PM",
+      "body": "asdasdsssssss"
+    }
+  ]
+}
